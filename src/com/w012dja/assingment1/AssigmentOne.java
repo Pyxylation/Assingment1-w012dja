@@ -1,5 +1,5 @@
 // Dieter Archer 
-
+//Samuel Ford
 package com.w012dja.assingment1;
 
 import java.util.stream.IntStream;
