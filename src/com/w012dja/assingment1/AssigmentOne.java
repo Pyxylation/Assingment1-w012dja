@@ -18,13 +18,7 @@ public class AssigmentOne implements Assignment1Tasks {
 		Checker.checkMonthsSaved(myAssignment);
 		Checker.checkFindAverage(myAssignment);
 		
-// I am making changes to the code to test how it works on GitHub!!!!!
-		//TESTy TESTy 1, 2, 3??????
-		//More Tests!!!
-		//Even more tests!!!!
-// hi 
-		//Added even more a comment
-		//maknwelkjdlkkjf
+
 		
 	}
 	/**
