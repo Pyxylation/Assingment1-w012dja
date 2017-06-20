@@ -18,7 +18,8 @@ public class AssigmentOne implements Assignment1Tasks {
 		Checker.checkMonthsSaved(myAssignment);
 		Checker.checkFindAverage(myAssignment);
 		
-
+//I HAVE A CATTO AND DOGGO
+		//they are both lazy
 		
 	}
 	/**
