@@ -22,6 +22,7 @@ public class AssigmentOne implements Assignment1Tasks {
 		//they are both lazy
 		
 // I am a kitty! :3
+		//yaaaaaaaaaaaaaaaaaaaay
 		
 	}
 	/**
