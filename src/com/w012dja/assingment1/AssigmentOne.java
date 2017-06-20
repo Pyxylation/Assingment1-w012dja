@@ -21,6 +21,8 @@ public class AssigmentOne implements Assignment1Tasks {
 //I HAVE A CATTO AND DOGGO
 		//they are both lazy
 		
+// I am a kitty! :3
+		
 	}
 	/**
 	 * @param participantAges The age age of the people participating
